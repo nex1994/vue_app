@@ -39,7 +39,7 @@
           <nav class="filter" data-cy="Filter"><a href="#/" class="filter__link selected"
               data-cy="FilterLinkAll">All</a><a href="#/active" class="filter__link"
               data-cy="FilterLinkActive">Active</a><a href="#/completed" class="filter__link"
-              data-cy="FilterLinkCompleted">Completed</a></nav><button disabled="" type="button"
+              data-cy="FilterLinkCompleted">Completed</a></nav><button disabled type="button"
             class="todoapp__clear-completed" data-cy="ClearCompletedButton">Clear completed</button>
         </footer>
       </div>
